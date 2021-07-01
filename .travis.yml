@@ -4,3 +4,5 @@ go:
 
 script:
  - go test -v ./receipt
+
+ go_import_path: github.com/25mordad/sales-tax-problem
