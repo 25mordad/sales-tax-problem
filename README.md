@@ -26,3 +26,7 @@ Start with cloning the repository:
 `go test`
 
 ![test-1](https://i.imgur.com/O07vG5K.png)
+
+## Travis
+Travis is being used to automatically test and build this project.
+[https://travis-ci.com/github/25mordad/sales-tax-problem](https://travis-ci.com/github/25mordad/sales-tax-problem)
