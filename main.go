@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	rcp "sales-tax/receipt"
+
+	rcp "github.com/25mordad/sales-tax-problem/receipt"
 )
 
 ///
